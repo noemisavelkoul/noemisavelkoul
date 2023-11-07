@@ -5,6 +5,7 @@ I am currently pursuing a Master of Science in Economic and Social Sciences at B
 
 My academic journey includes a Bachelor of Science in Econometrics and Operations Research and another in Economic and Business Economics, both from Erasmus University Rotterdam.
 
+### Interests 
 For my Master's program, I specialize in courses such as Advanced Macroeconomics, Bayesian Statistical Methods, Monetary Policy and Empirical Industrial Organization, and Competition Policy. During my undergraduate education, I followed courses like Probability Theory, Multivariate Statistics, Time Series Analysis, Markov Processes, and Advanced Econometrics (panel analysis).
 
 ## Projects
